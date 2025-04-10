@@ -1,7 +1,6 @@
 ## My name is SUNGMIN KIM 👋
 ##My instagram is here⬇️
-##
-<a href="https://www.instagram.com/so_ssmk/"><img src="https://img.shields.io/badge/INSTAGRAM-?style=flat-square&logo=##FF0069&logoColor=white&link=내링크"/></a>&nbsp
+<a href="https://www.instagram.com/so_ssmk/"><img src="https://img.shields.io/badge/INSTAGRAM-FF0069?style=flat-square&logo=instagram&logoColor=white&link=내링크"/></a>&nbsp
 
 
 
